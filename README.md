@@ -13,6 +13,6 @@ The behaviour of vehicle speed and wheel speed under hard braking conditions whe
 
 The Stopping Distance of the vehicle when brake pressure is applied when ABS is on and off:
 
-Vehcicle stops more faster when ABS is on as compared to when ABS is off
+Vehicle stops more faster when ABS is on as compared to when ABS is off
 ![Graph 2](https://github.com/arjunrajan7/ABS-repo/assets/107029007/16e2ada1-d3d3-4a8b-9008-b47af383c025)
 
